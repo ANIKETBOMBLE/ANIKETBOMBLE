@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @ANIKETBOMBLE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm ANIKET !
+Welcome to my GitHub profile!
 
-<!---
-ANIKETBOMBLE/ANIKETBOMBLE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Frontend Developer who loves crafting responsive and user-friendly web experiences.
+🌟 I specialize in HTML, CSS, .
+🚀 Always exploring new technologies and pushing boundaries in coding!
+
+🛠️ Skills
+Frontend: HTML, CSS, Js,
+Tools: Git, VS Code, 
+📫 Let's Connect!
+LinkedIn:https://www.linkedin.com/in/aniket-bomble-5a5662301/
+Email:aniketbomble999@gamil.com
